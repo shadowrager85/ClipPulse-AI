@@ -1,21 +1,35 @@
 MIT License
 
-Copyright (c) 2025 TechWhiz14
+Copyright (c) 2025 TrendVibe AI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software UI and 
+Non-Core Components"), to deal in the Software UI and Non-Core Components 
+without restriction, including without limitation the rights to use, copy, 
+modify, merge, publish, distribute, sublicense, and/or sell copies of the 
+Software UI and Non-Core Components, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the Software UI and Non-Core Components.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+--------------------------------------------------------------------------------
+PROPRIETARY COMPONENTS (NOT COVERED BY MIT LICENSE):
+
+The following parts of this repository are NOT open-source and remain the
+exclusive intellectual property of TrendVibe AI:
+
+- AI trend prediction algorithms
+- Trend velocity scoring logic
+- Scraper modules for TikTok/Instagram/YouTube
+- Data pipelines and preprocessing code
+- Embedding models and clustering techniques
+- Forecasting systems and heuristics
+- API keys, environment files, and deployment pipelines
+- Any file within /core-ai/, /scrapers/, or /prediction-engine/
+
+These components may NOT be used, reproduced, modified, or distributed
+without explicit written permission from TrendVibe AI.
+
+THE SOFTWARE/UI IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+--------------------------------------------------------------------------------
+
